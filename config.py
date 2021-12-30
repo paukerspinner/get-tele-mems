@@ -1,0 +1,1 @@
+LIMIT_TIME = 30 # day
